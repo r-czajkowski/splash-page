@@ -2,4 +2,4 @@
 template: announcement
 title: Announcement
 ---
-Test 123
+ETH goes up already!
